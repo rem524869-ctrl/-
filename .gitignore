@@ -1,0 +1,22 @@
+# Qt Creator user files
+*.pro.user
+*.pro.user.*
+
+# Build outputs
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+
+# IDE / system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
