@@ -1,11 +1,20 @@
 # Qt Creator user files
 *.pro.user
 *.pro.user.*
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+.qtcreator/
 
 # Build outputs
+build/
 build-*/
+cmake-build-*/
 debug/
 release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
 *.o
 *.obj
 *.exe

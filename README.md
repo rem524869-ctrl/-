@@ -9,6 +9,7 @@
 | 目录 | 分类 | 内容 |
 | --- | --- | --- |
 | `opencv-invisibility-demo` | OpenCV 图像处理 | 基于 HSV 颜色分割、mask 掩膜和背景替换实现的隐身术 demo |
+| `qt-simple-calculator` | Qt 桌面应用 | 使用 Qt Widgets、Lambda 表达式和 QJSEngine 实现的简易计算器 |
 
 ## 当前学习方向
 
